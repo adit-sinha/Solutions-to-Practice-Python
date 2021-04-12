@@ -1,4 +1,3 @@
-#needed help with range
 usern = int(input("Enter your number."))
 a = range(1,usern+1)
 print("The factors of", usern, "are:")
