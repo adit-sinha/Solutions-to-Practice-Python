@@ -1,4 +1,3 @@
-#needed help
 word=str(input("Please enter your word. "))
 reverse=word[::-1]
 #imp; [::-1] reads the word from the back
